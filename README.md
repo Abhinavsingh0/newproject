@@ -1,1 +1,1 @@
-# This is my initial project checking.
+# This is my initial project.
