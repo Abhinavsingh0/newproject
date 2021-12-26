@@ -1,1 +1,1 @@
-# This is my initial project. MINE
+# This my new project
